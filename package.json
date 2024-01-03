@@ -15,7 +15,8 @@
     "commands": [
       {
         "command": "contribution-point-test.test-command",
-        "title": "Contribution Point"
+        "title": "Contribution Point",
+        "icon": "$(circle-large)"
       }
     ],
     "menus": {
